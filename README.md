@@ -1,5 +1,5 @@
 # cloudData
-Local Kafka practice environment using Confluent (Apache Kafka) containers via Docker Compose. This setup is designed to run on Windows with Docker Desktop and can be committed to GitHub as a reusable lab project.
+Local Kafka practice environment using Confluent (Apache Kafka) containers via Docker Compose. This setup is designed to run on Windows with Docker Desktop. It can be committed to GitHub as a reusable lab project.
 
 ## Prerequisites
 - Windows 10/11 with [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed
